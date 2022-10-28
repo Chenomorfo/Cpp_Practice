@@ -1,4 +1,4 @@
-Para compilar un archivo .cpp
+Para compilar un archivo .cpp en Linux
 1. g++ nombreArchivo.cpp
 2. g++ -o nombeCompilado nombreArchivo.cpp
 
